@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+openai-whisper
+torch
+torchaudio
+numpy
+tqdm
+speechbrain
+scipy
+matplotlib
